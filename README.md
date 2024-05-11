@@ -1,5 +1,5 @@
 ## 介绍
-个人整理的 ShadowRocket 模块的集合。其中会使用各位大神发布的脚本。
+个人收集的 ShadowRocket 模块的集合。只做测试使用。
 
 ## 模块
 - 电子请柬制作：[dzqjzz.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/dzqjzz.module)
