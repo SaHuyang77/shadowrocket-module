@@ -35,3 +35,8 @@
 3. 点击右上角的“+”。
 4. 粘贴链接并点击下载。
 5. 将全局路由切换到配置以启用脚本。
+
+
+## Shadowrocket 懶人配置：
+懶人配置 [lazy.conf](https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/conf/lazy.conf)
+懶人配置(帶策略組) [lazy_group.conf](https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/conf/lazy_group.conf)
