@@ -20,11 +20,13 @@
 
 ## 应用 Rewrite 配置
 
-| 网站/应用    | 标签   | 主机名                                                                            | Rewrite 脚本                        | 生效？ | 测试时间 |
-|----------|------|--------------------------------------------------------------------------------|-----------------------------------|-----|------|
-| Vista看天下 | 新闻阅读 | open3.vistastory.com                                                           | Vista.js, vistamy.js, vistavip.js |     |      |
-| 万兴喵影     | 工具   | api.300624.com                                                                 | wanxingmiaoying.js                |     |      |
-| 网易有道词典   | 学习   | dict.youdao.com, business.youdao.com, api-overmind.youdao.com, cdke.youdao.com | wyydcd.js                         |
+| 网站/应用    | 主机名                                                                            | Rewrite 脚本                        | 生效？ | 测试时间      |
+|----------|--------------------------------------------------------------------------------|-----------------------------------|-----|-----------|
+| 电子请柬制作   | cn.invit.vip                                                                   | dzqjzz.js                         | Y   | 2024/5/11 |
+| Vista看天下 | open3.vistastory.com                                                           | Vista.js, vistamy.js, vistavip.js |     |           |
+| 万兴喵影     | api.300624.com                                                                 | wanxingmiaoying.js                |     |           |
+| 网易有道词典   | dict.youdao.com, business.youdao.com, api-overmind.youdao.com, cdke.youdao.com | wyydcd.js                         |
+
 
 
 ## 使用方法
