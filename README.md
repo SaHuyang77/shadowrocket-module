@@ -2,6 +2,7 @@
 个人整理的 ShadowRocket 模块的集合。其中会使用各位大神发布的脚本。
 
 ## 模块
+- 电子请柬制作：[dzqjzz.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/dzqjzz.module)
 - 酷我音乐：[https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/KW.module](https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/KW.module)
 - Picsew：[https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Picsew.module](https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Picsew.module)
 - Spotify解锁订阅：[https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Spotify.module](https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Spotify.module)
