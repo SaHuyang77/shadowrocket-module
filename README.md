@@ -1,13 +1,7 @@
-
-Tg：https://t.me/it_cast
-
-
 ## 介绍
-
-本文档是个人 Shadowrocket 脚本模块的集合。
+个人整理的 ShadowRocket 模块的集合。其中会使用各位大神发布的脚本。
 
 ## 模块
-
 - 酷我音乐：[https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/KW.module](https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/KW.module)
 - Picsew：[https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Picsew.module](https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Picsew.module)
 - Spotify解锁订阅：[https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Spotify.module](https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Spotify.module)
@@ -23,8 +17,15 @@ Tg：https://t.me/it_cast
 - 网易云Vip(未测试)：[https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/NetEase.module](https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/NetEase.module)
 - 知乎盐选：
 
-## 使用方法
+##应用 Rewrite 配置
+| 网站/应用    | 标签   | 主机名                                                                            | Rewrite 脚本                        | 生效？ | 测试时间 |
+|----------|------|--------------------------------------------------------------------------------|-----------------------------------|-----|------|
+| Vista看天下 | 新闻阅读 | open3.vistastory.com                                                           | Vista.js, vistamy.js, vistavip.js |     |      |
+| 万兴喵影     | 工具   | api.300624.com                                                                 | wanxingmiaoying.js                |     |      |
+| 网易有道词典   | 学习   | dict.youdao.com, business.youdao.com, api-overmind.youdao.com, cdke.youdao.com | wyydcd.js                         |
 
+
+## 使用方法
 1. 复制所需模块的链接。
 2. 打开 Shadowrocket 并进入 Configurations > Module。
 3. 点击右上角的“+”。
