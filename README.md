@@ -17,7 +17,8 @@
 - 网易云Vip(未测试)：[https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/NetEase.module](https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/NetEase.module)
 - 知乎盐选：
 
-##应用 Rewrite 配置
+## 应用 Rewrite 配置
+
 | 网站/应用    | 标签   | 主机名                                                                            | Rewrite 脚本                        | 生效？ | 测试时间 |
 |----------|------|--------------------------------------------------------------------------------|-----------------------------------|-----|------|
 | Vista看天下 | 新闻阅读 | open3.vistastory.com                                                           | Vista.js, vistamy.js, vistavip.js |     |      |
