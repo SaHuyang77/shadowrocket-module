@@ -28,6 +28,7 @@
 | 微信公众号去广告              |     |           | [WeChat.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/WeChat.module)           |
 | 微博(国际版)去广告            |     |           | [Weibo.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/Weibo.module)             |
 | Vista看天下              |     |           | [vista.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/vista.module)             |
+| 网易有道词典 |   |   | [wyydcd.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/wyydcd.module) 		| 
 
 
 ## 使用方法
