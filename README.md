@@ -38,5 +38,6 @@
 
 
 ## Shadowrocket 懶人配置：
-懶人配置 [lazy.conf](https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/conf/lazy.conf)
-懶人配置(帶策略組) [lazy_group.conf](https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/conf/lazy_group.conf)
+from https://www.noiseblogs.top/posts/6e39abdb/
+懶人配置 [lazy.conf](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/conf/lazy.conf)
+懶人配置(帶策略組) [lazy_group.conf](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/conf/lazy_group.conf)
