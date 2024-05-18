@@ -1,0 +1,10 @@
+#!name=美图秀秀
+#!desc=美图秀秀
+#非一次性解锁，每次使用需要开启，先开启规则，在进入软件即可！
+
+[Script]
+美图秀秀=type=http-response,pattern=^https?:\/\/(h5|api)\.xiuxiu\.meitu\.com\/v\d\/(h\d\/vip|vip|user)\/,requires-body=1,script-path= https://raw.githubusercontent.com/chxm1023/Rewrite/main/mtxx.js
+[MITM]
+hostname= %APPEND% h5.xiuxiu.meitu.com,api.xiuxiu.meitu.com
+
+
