@@ -29,7 +29,7 @@
 | 微博(国际版)去广告            |     |           | [Weibo.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/Weibo.module)             |
 | Vista看天下              |     |           | [vista.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/vista.module)             |
 | 网易有道词典 |   |   | [wyydcd.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/wyydcd.module) 		| 
-
+| 美图秀秀 | Y | 2024/5/18 | [mtxx.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/mtxx.module) 		| 
 
 ## 使用方法
 1. 必做！！！HTTPS解密：点击配置文件，打开HTTPS解密，生成新证书，点允许安装；打开iphone设置，点击已下载的描述文件，安装描述文件；返回设置，到通用，关于手机，拉到底部，点击证书信任设置，勾选信任证书；返回小火箭，勾选HTTPS解密，确认
