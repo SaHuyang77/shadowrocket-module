@@ -1,6 +1,8 @@
 #!name=jdprice
 #!desc=jdprice
 
+#京东比价 修改版
+
 [Script]
 
 JD_Price = type=http-response,pattern=^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/dcpengx/QuantumultX/main/JavaScript/JD_Price.js 
