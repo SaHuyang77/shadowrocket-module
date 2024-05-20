@@ -25,7 +25,7 @@
 | Keep解锁会员              |     |           | [keep2.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/keep2.module)             |
 | 网易云Vip                |     |           | [music163.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/music163.module)       |
 | Youtube去除广告           |     |           | [youtube.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/youtube.module)         |
-| 555游戏去广告              |     |           | [555.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/555.module)                 |
+| 555影视去广告https://apps.apple.com/app/id6449525082              |     |           | [555.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/555.module)                 |
 | 高德地图去广告               |     |           | [Amap.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/Amap.module)               |
 | 菜鸟去广告                 |     |           | [Cainiao.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/Cainiao.module)         |
 | 微信公众号去广告              |     |           | [WeChat.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/WeChat.module)           |
