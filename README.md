@@ -9,9 +9,9 @@
 | VSCO解锁会员              | Y   | 2024/5/11 | [VSCO.module](https://raw.githubusercontent.com/garywah/Shadowrocket/main/module/VSCO.module)                         |
 | 极简汇率解锁高级会员            | Y   | 2024/5/11 | [xCurrency.module](https://raw.githubusercontent.com/garywah/Shadowrocket/main/module/xCurrency.module)               |
 | 电子请柬制作                | Y   | 2024/5/11 | [dzqjzz.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/dzqjzz.module)           |
-| 网易有道词典                | Y   | 2024/5/20 | [wyydcd.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/wyydcd.module) 		        | 
-| 美图秀秀                  | Y   | 2024/5/18 | [mtxx.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/mtxx.module) 		            | 
-| 喜马拉雅                  | Y   | 2024/5/20 | [xmly.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/xmly.module) 		            | 
+| 网易有道词典会员破解            | Y   | 2024/5/20 | [wyydcd.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/wyydcd.module) 		        | 
+| 美图秀秀会员破解              | Y   | 2024/5/18 | [mtxx.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/mtxx.module) 		            | 
+| 喜马拉雅去广告及会员破解          | Y   | 2024/5/20 | [xmly.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/xmly.module) 		            | 
 | 酷我音乐                  |     |           | [kuyy.sgmodule](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/kuyy.sgmodule)           |
 | Picsew解锁高级功能          |     |           | [Picsew.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/Picsew.module)           |
 | Spotify解锁订阅           |     |           | [Spotify.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/Spotify.module)         |
@@ -25,7 +25,7 @@
 | Keep解锁会员              |     |           | [keep2.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/keep2.module)             |
 | 网易云Vip                |     |           | [music163.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/music163.module)       |
 | Youtube去除广告           |     |           | [youtube.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/youtube.module)         |
-| 555影视去广告https://apps.apple.com/app/id6449525082              |     |           | [555.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/555.module)                 |
+| 555电影去广告              |     |           | [555.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/555.module)                 |
 | 高德地图去广告               |     |           | [Amap.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/Amap.module)               |
 | 菜鸟去广告                 |     |           | [Cainiao.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/Cainiao.module)         |
 | 微信公众号去广告              |     |           | [WeChat.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/WeChat.module)           |
