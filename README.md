@@ -9,6 +9,9 @@
 | VSCO解锁会员              | Y   | 2024/5/11 | [VSCO.module](https://raw.githubusercontent.com/garywah/Shadowrocket/main/module/VSCO.module)                         |
 | 极简汇率解锁高级会员            | Y   | 2024/5/11 | [xCurrency.module](https://raw.githubusercontent.com/garywah/Shadowrocket/main/module/xCurrency.module)               |
 | 电子请柬制作                | Y   | 2024/5/11 | [dzqjzz.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/dzqjzz.module)           |
+| 网易有道词典                | Y   | 2024/5/20 | [wyydcd.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/wyydcd.module) 		        | 
+| 美图秀秀                  | Y   | 2024/5/18 | [mtxx.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/mtxx.module) 		            | 
+| 喜马拉雅                  | Y   | 2024/5/20 | [xmly.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/xmly.module) 		            | 
 | 酷我音乐                  |     |           | [kuyy.sgmodule](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/kuyy.sgmodule)           |
 | Picsew解锁高级功能          |     |           | [Picsew.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/Picsew.module)           |
 | Spotify解锁订阅           |     |           | [Spotify.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/Spotify.module)         |
@@ -28,8 +31,6 @@
 | 微信公众号去广告              |     |           | [WeChat.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/WeChat.module)           |
 | 微博(国际版)去广告            |     |           | [Weibo.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/Weibo.module)             |
 | Vista看天下              |     |           | [vista.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/vista.module)             |
-| 网易有道词典 |   |   | [wyydcd.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/wyydcd.module) 		| 
-| 美图秀秀 | Y | 2024/5/18 | [mtxx.module](https://raw.githubusercontent.com/SaHuyang77/shadowrocket-module/main/module/mtxx.module) 		| 
 
 ## 使用方法
 1. 必做！！！HTTPS解密：点击配置文件，打开HTTPS解密，生成新证书，点允许安装；打开iphone设置，点击已下载的描述文件，安装描述文件；返回设置，到通用，关于手机，拉到底部，点击证书信任设置，勾选信任证书；返回小火箭，勾选HTTPS解密，确认
